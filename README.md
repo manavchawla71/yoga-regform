@@ -1,4 +1,4 @@
-## Pure ReactJS form registration
+## Yoga  Admission form
 Handling User Registration and Login with Redux, Form validations & Route using Pure ReactJS applications without any external package.
 
 ## Project setup
@@ -13,6 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+# On the frontend side  tech used: React,Redux,Bootstrap.
+
 ## Features available in the application:
 1. Perfect Folder Structure
 2. User Registration
@@ -20,10 +22,14 @@ You will also see any lint errors in the console.
 3. React-Redux (store implemetation)
 5. Route & Private Route (Authentication)
 6. Form Validations
-7. Individual Components (Input range, Multiselect & Profile Picture, …etc)
-8. Load data from local JSON file (mock data)
-9. No external libraries
-10. Custom Utils functions (Email validation, Format Phone (111) 111–1111), & localstorage, ... etc)
+
+## On the backend side
+ Technologies used: Java ,SpringBoot(for managing rest api's)
+ 
+ 
+ 
+
+
 
 ## Tutorial is available on [medium article](https://medium.com/@jebasuthan/react-user-registration-and-login-using-redux-81ec739e93d1)
 
