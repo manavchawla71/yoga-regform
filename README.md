@@ -23,15 +23,10 @@ You will also see any lint errors in the console.
 5. Route & Private Route (Authentication)
 6. Form Validations
 
-# On the backend side
- Technologies used: Java ,SpringBoot(for managing rest api's)
- 
+# On the backend side  Tech used: Java ,SpringBoot(for managing rest api's)
  
  
 
-
-
-## Tutorial is available on [medium article](https://medium.com/@jebasuthan/react-user-registration-and-login-using-redux-81ec739e93d1)
 
 
 ## <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉 </g-emoji> [Demo Link](https://react-form-registration.herokuapp.com/)  <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>
