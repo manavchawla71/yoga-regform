@@ -23,7 +23,7 @@ You will also see any lint errors in the console.
 5. Route & Private Route (Authentication)
 6. Form Validations
 
-## On the backend side
+# On the backend side
  Technologies used: Java ,SpringBoot(for managing rest api's)
  
  
